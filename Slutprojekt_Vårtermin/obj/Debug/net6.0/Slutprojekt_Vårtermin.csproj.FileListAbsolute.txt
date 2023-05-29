@@ -1,0 +1,15 @@
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\bin\Debug\net6.0\Slutprojekt_Vårtermin.exe
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\bin\Debug\net6.0\Slutprojekt_Vårtermin.deps.json
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\bin\Debug\net6.0\Slutprojekt_Vårtermin.runtimeconfig.json
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\bin\Debug\net6.0\Slutprojekt_Vårtermin.dll
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\bin\Debug\net6.0\Slutprojekt_Vårtermin.pdb
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.csproj.AssemblyReference.cache
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.AssemblyInfoInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.AssemblyInfo.cs
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.csproj.CoreCompileInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.dll
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\refint\Slutprojekt_Vårtermin.dll
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.pdb
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\Slutprojekt_Vårtermin.genruntimeconfig.cache
+C:\Users\elliot.rydell\Documents\Programmering\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\Slutprojekt_Vårtermin\obj\Debug\net6.0\ref\Slutprojekt_Vårtermin.dll
